@@ -1,1 +1,1 @@
-C:\Users\nomi1\OneDrive\Desktop\GBPROJECT\target\debug\cli_calculator.exe: C:\Users\nomi1\OneDrive\Desktop\GBPROJECT\src\main.rs
+/workspaces/Rust_Calculator/target/debug/cli_calculator: /workspaces/Rust_Calculator/src/main.rs
