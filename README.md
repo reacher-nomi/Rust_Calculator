@@ -20,13 +20,15 @@ Unit conversions (bytes, distance, temperature, weight)
 
 History tracking of calculations (last 10 entries stored in history.csv)
 
+ https://github.com/your-username/command-line-calculator.git
+
 Installation
 
 To run this project, ensure you have Rust installed.
 
 Clone the repository:
 
-git clone https://github.com/your-username/command-line-calculator.git
+git clone
 cd command-line-calculator
 
 Website Link:
