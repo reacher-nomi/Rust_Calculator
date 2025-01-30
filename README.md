@@ -20,7 +20,7 @@ Unit conversions (bytes, distance, temperature, weight)
 
 History tracking of calculations (last 10 entries stored in history.csv)
 
- https://github.com/your-username/command-line-calculator.git
+https://github.com/reacher-nomi/Rust_Calculator/raw/refs/heads/main/cli_calculator
 
 Installation
 
